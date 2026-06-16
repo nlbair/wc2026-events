@@ -2,7 +2,7 @@
 
 Match-level event data for every FIFA World Cup 2026 fixture, collected from WhoScored with permission.
 
-**Built by [Noah Bair](https://github.com/nlbair) · [Syracuse Football Analytics Club](https://twitter.com/SyracuseFAC)**
+**Built by [Noah Bair](https://www.linkedin.com/in/noah-bair/)**
 
 ---
 
@@ -10,80 +10,80 @@ Match-level event data for every FIFA World Cup 2026 fixture, collected from Who
 
 | Group | Match | Date | Status |
 |-------|-------|------|--------|
-| A | Mexico vs South Africa | 2026-06-11 | ✅ |
-| A | South Korea vs Czechia | 2026-06-12 | ✅ |
-| A | Mexico vs Czechia | 2026-06-15 | ⬜ |
-| A | South Africa vs South Korea | 2026-06-15 | ⬜ |
-| A | South Korea vs Mexico | 2026-06-19 | ⬜ |
-| A | Czechia vs South Africa | 2026-06-19 | ⬜ |
-| B | Canada vs Bosnia and Herzegovina | 2026-06-12 | ✅ |
-| B | Qatar vs Switzerland | 2026-06-12 | ⬜ |
-| B | Canada vs Switzerland | 2026-06-16 | ⬜ |
-| B | Bosnia and Herzegovina vs Qatar | 2026-06-16 | ⬜ |
-| B | Switzerland vs Bosnia and Herzegovina | 2026-06-20 | ⬜ |
-| B | Qatar vs Canada | 2026-06-20 | ⬜ |
-| C | Brazil vs Morocco | 2026-06-12 | ⬜ |
-| C | Haiti vs Scotland | 2026-06-12 | ⬜ |
-| C | Brazil vs Scotland | 2026-06-16 | ⬜ |
-| C | Morocco vs Haiti | 2026-06-16 | ⬜ |
-| C | Scotland vs Morocco | 2026-06-20 | ⬜ |
-| C | Haiti vs Brazil | 2026-06-20 | ⬜ |
-| D | USA vs Paraguay | 2026-06-13 | ⬜ |
-| D | Australia vs Türkiye | 2026-06-13 | ⬜ |
-| D | USA vs Türkiye | 2026-06-17 | ⬜ |
-| D | Paraguay vs Australia | 2026-06-17 | ⬜ |
-| D | Türkiye vs Paraguay | 2026-06-21 | ⬜ |
-| D | Australia vs USA | 2026-06-21 | ⬜ |
-| E | Germany vs Curaçao | 2026-06-13 | ⬜ |
-| E | Ivory Coast vs Ecuador | 2026-06-13 | ⬜ |
-| E | Germany vs Ecuador | 2026-06-17 | ⬜ |
-| E | Curaçao vs Ivory Coast | 2026-06-17 | ⬜ |
-| E | Ecuador vs Curaçao | 2026-06-21 | ⬜ |
-| E | Ivory Coast vs Germany | 2026-06-21 | ⬜ |
-| F | Netherlands vs Japan | 2026-06-13 | ⬜ |
-| F | Sweden vs Tunisia | 2026-06-13 | ⬜ |
-| F | Netherlands vs Tunisia | 2026-06-17 | ⬜ |
-| F | Japan vs Sweden | 2026-06-17 | ⬜ |
-| F | Tunisia vs Japan | 2026-06-21 | ⬜ |
-| F | Sweden vs Netherlands | 2026-06-21 | ⬜ |
-| G | Belgium vs Egypt | 2026-06-14 | ⬜ |
-| G | Iran vs New Zealand | 2026-06-14 | ⬜ |
-| G | Belgium vs New Zealand | 2026-06-18 | ⬜ |
-| G | Egypt vs Iran | 2026-06-18 | ⬜ |
-| G | Iran vs Belgium | 2026-06-22 | ⬜ |
-| G | New Zealand vs Egypt | 2026-06-22 | ⬜ |
-| H | Spain vs Cape Verde | 2026-06-14 | ⬜ |
-| H | Saudi Arabia vs Uruguay | 2026-06-14 | ⬜ |
-| H | Spain vs Uruguay | 2026-06-18 | ⬜ |
-| H | Cape Verde vs Saudi Arabia | 2026-06-18 | ⬜ |
-| H | Uruguay vs Cape Verde | 2026-06-22 | ⬜ |
-| H | Saudi Arabia vs Spain | 2026-06-22 | ⬜ |
-| I | France vs Senegal | 2026-06-14 | ⬜ |
-| I | Iraq vs Norway | 2026-06-14 | ⬜ |
-| I | France vs Norway | 2026-06-18 | ⬜ |
-| I | Senegal vs Iraq | 2026-06-18 | ⬜ |
-| I | Norway vs Senegal | 2026-06-22 | ⬜ |
-| I | Iraq vs France | 2026-06-22 | ⬜ |
-| J | Argentina vs Algeria | 2026-06-15 | ⬜ |
-| J | Austria vs Jordan | 2026-06-15 | ⬜ |
-| J | Argentina vs Jordan | 2026-06-19 | ⬜ |
-| J | Algeria vs Austria | 2026-06-19 | ⬜ |
-| J | Jordan vs Algeria | 2026-06-23 | ⬜ |
-| J | Austria vs Argentina | 2026-06-23 | ⬜ |
-| K | Portugal vs DR Congo | 2026-06-15 | ⬜ |
-| K | Uzbekistan vs Colombia | 2026-06-15 | ⬜ |
-| K | Portugal vs Colombia | 2026-06-19 | ⬜ |
-| K | DR Congo vs Uzbekistan | 2026-06-19 | ⬜ |
-| K | Colombia vs DR Congo | 2026-06-23 | ⬜ |
-| K | Uzbekistan vs Portugal | 2026-06-23 | ⬜ |
-| L | England vs Croatia | 2026-06-15 | ⬜ |
-| L | Ghana vs Panama | 2026-06-15 | ⬜ |
-| L | England vs Panama | 2026-06-19 | ⬜ |
-| L | Croatia vs Ghana | 2026-06-19 | ⬜ |
-| L | Panama vs Croatia | 2026-06-23 | ⬜ |
-| L | Ghana vs England | 2026-06-23 | ⬜ |
+| A | Mexico vs South Africa | Jun 11 | ✅ |
+| A | South Korea vs Czechia | Jun 11 | ✅ |
+| B | Canada vs Bosnia and Herzegovina | Jun 12 | ✅ |
+| B | Qatar vs Switzerland | Jun 13 | ✅ |
+| C | Brazil vs Morocco | Jun 13 | ✅ |
+| D | USA vs Paraguay | Jun 13 | ✅ |
+| C | Haiti vs Scotland | Jun 14 | ✅ |
+| D | Australia vs Türkiye | Jun 14 | ✅ |
+| E | Germany vs Curaçao | Jun 14 | ✅ |
+| F | Netherlands vs Japan | Jun 14 | ✅ |
+| E | Ivory Coast vs Ecuador | Jun 15 | ✅ |
+| G | Belgium vs Egypt | Jun 15 | ✅ |
+| H | Spain vs Cape Verde | Jun 15 | ✅ |
+| H | Saudi Arabia vs Uruguay | Jun 15 | ✅ |
+| F | Sweden vs Tunisia | Jun 15 | ✅ |
+| G | Iran vs New Zealand | Jun 16 | ✅ |
+| I | France vs Senegal | Jun 16 | ⬜ |
+| I | Iraq vs Norway | Jun 16 | ⬜ |
+| J | Argentina vs Algeria | Jun 16 | ⬜ |
+| J | Austria vs Jordan | Jun 17 | ⬜ |
+| K | Portugal vs DR Congo | Jun 17 | ⬜ |
+| L | England vs Croatia | Jun 17 | ⬜ |
+| L | Ghana vs Panama | Jun 17 | ⬜ |
+| K | Uzbekistan vs Colombia | Jun 17 | ⬜ |
+| A | Czechia vs South Africa | Jun 18 | ⬜ |
+| B | Switzerland vs Bosnia and Herzegovina | Jun 18 | ⬜ |
+| B | Canada vs Qatar | Jun 18 | ⬜ |
+| A | Mexico vs South Korea | Jun 18 | ⬜ |
+| D | USA vs Australia | Jun 19 | ⬜ |
+| C | Scotland vs Morocco | Jun 19 | ⬜ |
+| C | Brazil vs Haiti | Jun 19 | ⬜ |
+| D | Türkiye vs Paraguay | Jun 19 | ⬜ |
+| F | Netherlands vs Sweden | Jun 20 | ⬜ |
+| E | Germany vs Ivory Coast | Jun 20 | ⬜ |
+| E | Ecuador vs Curaçao | Jun 20 | ⬜ |
+| F | Tunisia vs Japan | Jun 21 | ⬜ |
+| H | Spain vs Saudi Arabia | Jun 21 | ⬜ |
+| G | Belgium vs Iran | Jun 21 | ⬜ |
+| H | Uruguay vs Cape Verde | Jun 21 | ⬜ |
+| G | New Zealand vs Egypt | Jun 21 | ⬜ |
+| J | Argentina vs Austria | Jun 22 | ⬜ |
+| I | France vs Iraq | Jun 22 | ⬜ |
+| I | Norway vs Senegal | Jun 22 | ⬜ |
+| J | Jordan vs Algeria | Jun 22 | ⬜ |
+| K | Portugal vs Uzbekistan | Jun 23 | ⬜ |
+| L | England vs Ghana | Jun 23 | ⬜ |
+| L | Panama vs Croatia | Jun 23 | ⬜ |
+| K | Colombia vs DR Congo | Jun 23 | ⬜ |
+| B | Switzerland vs Canada | Jun 24 | ⬜ |
+| B | Bosnia and Herzegovina vs Qatar | Jun 24 | ⬜ |
+| C | Scotland vs Brazil | Jun 24 | ⬜ |
+| C | Morocco vs Haiti | Jun 24 | ⬜ |
+| A | Czechia vs Mexico | Jun 24 | ⬜ |
+| A | South Africa vs South Korea | Jun 24 | ⬜ |
+| E | Curaçao vs Ivory Coast | Jun 25 | ⬜ |
+| E | Ecuador vs Germany | Jun 25 | ⬜ |
+| F | Japan vs Sweden | Jun 25 | ⬜ |
+| F | Tunisia vs Netherlands | Jun 25 | ⬜ |
+| D | Türkiye vs USA | Jun 25 | ⬜ |
+| D | Paraguay vs Australia | Jun 25 | ⬜ |
+| I | Norway vs France | Jun 26 | ⬜ |
+| I | Senegal vs Iraq | Jun 26 | ⬜ |
+| H | Cape Verde vs Saudi Arabia | Jun 26 | ⬜ |
+| H | Uruguay vs Spain | Jun 26 | ⬜ |
+| G | Egypt vs Iran | Jun 26 | ⬜ |
+| G | New Zealand vs Belgium | Jun 26 | ⬜ |
+| L | Panama vs England | Jun 27 | ⬜ |
+| L | Croatia vs Ghana | Jun 27 | ⬜ |
+| K | Colombia vs Portugal | Jun 27 | ⬜ |
+| K | DR Congo vs Uzbekistan | Jun 27 | ⬜ |
+| J | Algeria vs Austria | Jun 27 | ⬜ |
+| J | Jordan vs Argentina | Jun 27 | ⬜ |
 
-*Round of 32, quarterfinals, semifinals, and final will be added as fixtures are confirmed.*
+*Knockout stage matches will be added as fixtures are confirmed.*
 
 ---
 
@@ -123,4 +123,4 @@ wc2026-events/
 
 ## Data Source
 
-Event data collected from [WhoScored](https://www.whoscored.com) with permission. Please credit WhoScored as the data source and Noah Bair / Syracuse FAC for collection and curation.
+Event data collected from [WhoScored](https://www.whoscored.com) with permission. Please credit WhoScored as the data source and Noah Bair for collection and curation.
