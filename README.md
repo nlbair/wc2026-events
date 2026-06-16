@@ -1,6 +1,6 @@
 # ⚽ WC 2026 Event Data
 
-Match-level event data for every FIFA World Cup 2026 fixture, collected from WhoScored with permission.
+Match-level event data for every FIFA World Cup 2026 fixture
 
 **Built by [Noah Bair](https://www.linkedin.com/in/noah-bair/)**
 
