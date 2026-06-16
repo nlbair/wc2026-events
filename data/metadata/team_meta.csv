@@ -1,60 +1,60 @@
-whoscored_name	display_name	group	primary_color	flag_code
-Mexico	Mexico	A	#CE1126	mx
-South Africa	South Africa	A	#007A4D	za
-Republic of Korea	South Korea	A	#C60C30	kr
-Korea Republic	South Korea	A	#C60C30	kr
-South Korea	South Korea	A	#C60C30	kr
-Czechia	Czechia	A	#002395	cz
-Czech Republic	Czechia	A	#002395	cz
-Canada	Canada	B	#FF0000	ca
-Bosnia and Herzegovina	Bosnia and Herzegovina	B	#002395	ba
-Bosnia & Herzegovina	Bosnia and Herzegovina	B	#002395	ba
-Qatar	Qatar	B	#8D1B3D	qa
-Switzerland	Switzerland	B	#FF0000	ch
-Brazil	Brazil	C	#009C3B	br
-Morocco	Morocco	C	#C1272D	ma
-Haiti	Haiti	C	#00209F	ht
-Scotland	Scotland	C	#003399	gb-sct
-United States	USA	D	#B22234	us
-USA	USA	D	#B22234	us
-Paraguay	Paraguay	D	#D52B1E	py
-Australia	Australia	D	#00008B	au
-TÃ¼rkiye	TÃ¼rkiye	D	#E30A17	tr
-Turkey	TÃ¼rkiye	D	#E30A17	tr
-Germany	Germany	E	#1a1a1a	de
-CuraÃ§ao	CuraÃ§ao	E	#002B7F	cw
-Curacao	CuraÃ§ao	E	#002B7F	cw
-Ivory Coast	Ivory Coast	E	#F77F00	ci
-CÃ´te d'Ivoire	Ivory Coast	E	#F77F00	ci
-Ecuador	Ecuador	E	#FFD100	ec
-Netherlands	Netherlands	F	#FF6600	nl
-Japan	Japan	F	#BC002D	jp
-Sweden	Sweden	F	#006AA7	se
-Tunisia	Tunisia	F	#E70013	tn
-Belgium	Belgium	G	#000000	be
-Egypt	Egypt	G	#C8102E	eg
-Iran	Iran	G	#239F40	ir
-IR Iran	Iran	G	#239F40	ir
-New Zealand	New Zealand	G	#00247D	nz
-Spain	Spain	H	#AA151B	es
-Cape Verde	Cape Verde	H	#003893	cv
-Cabo Verde	Cape Verde	H	#003893	cv
-Saudi Arabia	Saudi Arabia	H	#006C35	sa
-Uruguay	Uruguay	H	#75AADB	uy
-France	France	I	#002395	fr
-Senegal	Senegal	I	#00853F	sn
-Iraq	Iraq	I	#CE1126	iq
-Norway	Norway	I	#EF2B2D	no
-Argentina	Argentina	J	#75AADB	ar
-Algeria	Algeria	J	#006233	dz
-Austria	Austria	J	#ED2939	at
-Jordan	Jordan	J	#007A3D	jo
-Portugal	Portugal	K	#006600	pt
-DR Congo	DR Congo	K	#007FFF	cd
-Congo DR	DR Congo	K	#007FFF	cd
-Uzbekistan	Uzbekistan	K	#1EB53A	uz
-Colombia	Colombia	K	#FCD116	co
-England	England	L	#CF081F	gb-eng
-Croatia	Croatia	L	#FF0000	hr
-Ghana	Ghana	L	#EF3340	gh
-Panama	Panama	L	#DA121A	pa
+whoscored_name,display_name,group,primary_color,flag_code
+Mexico,Mexico,A,#CE1126,mx
+South Africa,South Africa,A,#007A4D,za
+Republic of Korea,South Korea,A,#C60C30,kr
+Korea Republic,South Korea,A,#C60C30,kr
+South Korea,South Korea,A,#C60C30,kr
+Czechia,Czechia,A,#002395,cz
+Czech Republic,Czechia,A,#002395,cz
+Canada,Canada,B,#FF0000,ca
+Bosnia and Herzegovina,Bosnia and Herzegovina,B,#002395,ba
+Bosnia & Herzegovina,Bosnia and Herzegovina,B,#002395,ba
+Qatar,Qatar,B,#8D1B3D,qa
+Switzerland,Switzerland,B,#FF0000,ch
+Brazil,Brazil,C,#009C3B,br
+Morocco,Morocco,C,#C1272D,ma
+Haiti,Haiti,C,#00209F,ht
+Scotland,Scotland,C,#003399,gb-sct
+United States,USA,D,#B22234,us
+USA,USA,D,#B22234,us
+Paraguay,Paraguay,D,#D52B1E,py
+Australia,Australia,D,#00008B,au
+Türkiye,Türkiye,D,#E30A17,tr
+Turkey,Türkiye,D,#E30A17,tr
+Germany,Germany,E,#1a1a1a,de
+Curaçao,Curaçao,E,#002B7F,cw
+Curacao,Curaçao,E,#002B7F,cw
+Ivory Coast,Ivory Coast,E,#F77F00,ci
+Côte d'Ivoire,Ivory Coast,E,#F77F00,ci
+Ecuador,Ecuador,E,#FFD100,ec
+Netherlands,Netherlands,F,#FF6600,nl
+Japan,Japan,F,#BC002D,jp
+Sweden,Sweden,F,#006AA7,se
+Tunisia,Tunisia,F,#E70013,tn
+Belgium,Belgium,G,#000000,be
+Egypt,Egypt,G,#C8102E,eg
+Iran,Iran,G,#239F40,ir
+IR Iran,Iran,G,#239F40,ir
+New Zealand,New Zealand,G,#00247D,nz
+Spain,Spain,H,#AA151B,es
+Cape Verde,Cape Verde,H,#003893,cv
+Cabo Verde,Cape Verde,H,#003893,cv
+Saudi Arabia,Saudi Arabia,H,#006C35,sa
+Uruguay,Uruguay,H,#75AADB,uy
+France,France,I,#002395,fr
+Senegal,Senegal,I,#00853F,sn
+Iraq,Iraq,I,#CE1126,iq
+Norway,Norway,I,#EF2B2D,no
+Argentina,Argentina,J,#75AADB,ar
+Algeria,Algeria,J,#006233,dz
+Austria,Austria,J,#ED2939,at
+Jordan,Jordan,J,#007A3D,jo
+Portugal,Portugal,K,#006600,pt
+DR Congo,DR Congo,K,#007FFF,cd
+Congo DR,DR Congo,K,#007FFF,cd
+Uzbekistan,Uzbekistan,K,#1EB53A,uz
+Colombia,Colombia,K,#FCD116,co
+England,England,L,#CF081F,gb-eng
+Croatia,Croatia,L,#FF0000,hr
+Ghana,Ghana,L,#EF3340,gh
+Panama,Panama,L,#DA121A,pa
