@@ -123,4 +123,4 @@ wc2026-events/
 
 ## Data Source
 
-Event data collected from [WhoScored](https://www.whoscored.com) with permission. Please credit WhoScored as the data source and Noah Bair for collection and curation.
+Please credit WhoScored as the data source and Noah Bair for collection and curation.
