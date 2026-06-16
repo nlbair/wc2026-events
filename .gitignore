@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
+
+# Data (keep metadata, ignore raw CSVs from git — they're the point of the repo
+# but may be large; consider Git LFS or just committing directly)
+# Uncomment the line below if you want to use Git LFS for CSVs:
+# data/raw/*.csv
+
+# Outputs / graphics
+*.png
+*.jpg
+
+# Local config overrides
+config_local.py
