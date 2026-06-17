@@ -26,11 +26,11 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | H | Saudi Arabia vs Uruguay | Jun 15 | ✅ |
 | F | Sweden vs Tunisia | Jun 15 | ✅ |
 | G | Iran vs New Zealand | Jun 16 | ✅ |
-| I | France vs Senegal | Jun 16 | ⬜ |
-| I | Iraq vs Norway | Jun 16 | ⬜ |
-| J | Argentina vs Algeria | Jun 16 | ⬜ |
-| J | Austria vs Jordan | Jun 17 | ⬜ |
-| K | Portugal vs DR Congo | Jun 17 | ⬜ |
+| I | France vs Senegal | Jun 16 | ✅ |
+| I | Iraq vs Norway | Jun 16 | ✅ |
+| J | Argentina vs Algeria | Jun 16 | ✅ |
+| J | Austria vs Jordan | Jun 17 | ✅ |
+| K | Portugal vs DR Congo | Jun 17 | ✅ |
 | L | England vs Croatia | Jun 17 | ⬜ |
 | L | Ghana vs Panama | Jun 17 | ⬜ |
 | K | Uzbekistan vs Colombia | Jun 17 | ⬜ |
