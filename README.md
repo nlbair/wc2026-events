@@ -34,19 +34,19 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | L | England vs Croatia | Jun 17 | ✅ |
 | L | Ghana vs Panama | Jun 17 | ✅ |
 | K | Uzbekistan vs Colombia | Jun 17 | ✅ |
-| A | Czechia vs South Africa | Jun 18 | ⬜ |
-| B | Switzerland vs Bosnia and Herzegovina | Jun 18 | ⬜ |
-| B | Canada vs Qatar | Jun 18 | ⬜ |
-| A | Mexico vs South Korea | Jun 18 | ⬜ |
-| D | USA vs Australia | Jun 19 | ⬜ |
-| C | Scotland vs Morocco | Jun 19 | ⬜ |
-| C | Brazil vs Haiti | Jun 19 | ⬜ |
-| D | Türkiye vs Paraguay | Jun 19 | ⬜ |
-| F | Netherlands vs Sweden | Jun 20 | ⬜ |
-| E | Germany vs Ivory Coast | Jun 20 | ⬜ |
-| E | Ecuador vs Curaçao | Jun 20 | ⬜ |
-| F | Tunisia vs Japan | Jun 21 | ⬜ |
-| H | Spain vs Saudi Arabia | Jun 21 | ⬜ |
+| A | Czechia vs South Africa | Jun 18 | ✅ |
+| B | Switzerland vs Bosnia and Herzegovina | Jun 18 | ✅ |
+| B | Canada vs Qatar | Jun 18 | ✅ |
+| A | Mexico vs South Korea | Jun 18 | ✅ |
+| D | USA vs Australia | Jun 19 | ✅ |
+| C | Scotland vs Morocco | Jun 19 | ✅ |
+| C | Brazil vs Haiti | Jun 19 | ✅ |
+| D | Türkiye vs Paraguay | Jun 19 | ✅ |
+| F | Netherlands vs Sweden | Jun 20 | ✅ |
+| E | Germany vs Ivory Coast | Jun 20 | ✅ |
+| E | Ecuador vs Curaçao | Jun 20 | ✅ |
+| F | Tunisia vs Japan | Jun 21 | ✅ |
+| H | Spain vs Saudi Arabia | Jun 21 | ✅ |
 | G | Belgium vs Iran | Jun 21 | ⬜ |
 | H | Uruguay vs Cape Verde | Jun 21 | ⬜ |
 | G | New Zealand vs Egypt | Jun 21 | ⬜ |
