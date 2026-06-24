@@ -56,8 +56,8 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | J | Jordan vs Algeria | Jun 22 | ✅ |
 | K | Portugal vs Uzbekistan | Jun 23 | ✅ |
 | L | England vs Ghana | Jun 23 | ✅ |
-| L | Panama vs Croatia | Jun 23 | ⬜ |
-| K | Colombia vs DR Congo | Jun 23 | ⬜ |
+| L | Panama vs Croatia | Jun 23 | ✅ |
+| K | Colombia vs DR Congo | Jun 23 | ✅ |
 | B | Switzerland vs Canada | Jun 24 | ⬜ |
 | B | Bosnia and Herzegovina vs Qatar | Jun 24 | ⬜ |
 | C | Scotland vs Brazil | Jun 24 | ⬜ |
