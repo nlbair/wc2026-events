@@ -58,12 +58,12 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | L | England vs Ghana | Jun 23 | ✅ |
 | L | Panama vs Croatia | Jun 23 | ✅ |
 | K | Colombia vs DR Congo | Jun 23 | ✅ |
-| B | Switzerland vs Canada | Jun 24 | ⬜ |
-| B | Bosnia and Herzegovina vs Qatar | Jun 24 | ⬜ |
-| C | Scotland vs Brazil | Jun 24 | ⬜ |
-| C | Morocco vs Haiti | Jun 24 | ⬜ |
-| A | Czechia vs Mexico | Jun 24 | ⬜ |
-| A | South Africa vs South Korea | Jun 24 | ⬜ |
+| B | Switzerland vs Canada | Jun 24 | ✅ |
+| B | Bosnia and Herzegovina vs Qatar | Jun 24 | ✅ |
+| C | Scotland vs Brazil | Jun 24 | ✅ |
+| C | Morocco vs Haiti | Jun 24 | ✅ |
+| A | Czechia vs Mexico | Jun 24 | ✅ |
+| A | South Africa vs South Korea | Jun 24 | ✅ |
 | E | Curaçao vs Ivory Coast | Jun 25 | ⬜ |
 | E | Ecuador vs Germany | Jun 25 | ⬜ |
 | F | Japan vs Sweden | Jun 25 | ⬜ |
