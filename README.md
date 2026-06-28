@@ -64,24 +64,24 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | C | Morocco vs Haiti | Jun 24 | ✅ |
 | A | Czechia vs Mexico | Jun 24 | ✅ |
 | A | South Africa vs South Korea | Jun 24 | ✅ |
-| E | Curaçao vs Ivory Coast | Jun 25 | ⬜ |
-| E | Ecuador vs Germany | Jun 25 | ⬜ |
-| F | Japan vs Sweden | Jun 25 | ⬜ |
-| F | Tunisia vs Netherlands | Jun 25 | ⬜ |
-| D | Türkiye vs USA | Jun 25 | ⬜ |
-| D | Paraguay vs Australia | Jun 25 | ⬜ |
-| I | Norway vs France | Jun 26 | ⬜ |
-| I | Senegal vs Iraq | Jun 26 | ⬜ |
-| H | Cape Verde vs Saudi Arabia | Jun 26 | ⬜ |
-| H | Uruguay vs Spain | Jun 26 | ⬜ |
-| G | Egypt vs Iran | Jun 26 | ⬜ |
-| G | New Zealand vs Belgium | Jun 26 | ⬜ |
-| L | Panama vs England | Jun 27 | ⬜ |
-| L | Croatia vs Ghana | Jun 27 | ⬜ |
-| K | Colombia vs Portugal | Jun 27 | ⬜ |
-| K | DR Congo vs Uzbekistan | Jun 27 | ⬜ |
-| J | Algeria vs Austria | Jun 27 | ⬜ |
-| J | Jordan vs Argentina | Jun 27 | ⬜ |
+| E | Curaçao vs Ivory Coast | Jun 25 | ✅ |
+| E | Ecuador vs Germany | Jun 25 | ✅ |
+| F | Japan vs Sweden | Jun 25 | ✅ |
+| F | Tunisia vs Netherlands | Jun 25 | ✅ |
+| D | Türkiye vs USA | Jun 25 | ✅ |
+| D | Paraguay vs Australia | Jun 25 | ✅ |
+| I | Norway vs France | Jun 26 | ✅ |
+| I | Senegal vs Iraq | Jun 26 | ✅ |
+| H | Cape Verde vs Saudi Arabia | Jun 26 | ✅ |
+| H | Uruguay vs Spain | Jun 26 | ✅ |
+| G | Egypt vs Iran | Jun 26 | ✅ |
+| G | New Zealand vs Belgium | Jun 26 | ✅ |
+| L | Panama vs England | Jun 27 | ✅ |
+| L | Croatia vs Ghana | Jun 27 | ✅ |
+| K | Colombia vs Portugal | Jun 27 | ✅ |
+| K | DR Congo vs Uzbekistan | Jun 27 | ✅ |
+| J | Algeria vs Austria | Jun 27 | ✅ |
+| J | Jordan vs Argentina | Jun 27 | ✅ |
 
 *Knockout stage matches will be added as fixtures are confirmed.*
 
