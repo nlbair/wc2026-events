@@ -83,7 +83,9 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | J | Algeria vs Austria | Jun 27 | ✅ |
 | J | Jordan vs Argentina | Jun 27 | ✅ |
 
-*Knockout stage matches will be added as fixtures are confirmed.*
+Round of 32 data processing IN PROGRESS
+
+Colombia vs Ghana | Jul 3 | ✅ |
 
 ---
 
