@@ -82,10 +82,33 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | K | DR Congo vs Uzbekistan | Jun 27 | ✅ |
 | J | Algeria vs Austria | Jun 27 | ✅ |
 | J | Jordan vs Argentina | Jun 27 | ✅ |
+| R32 | South Africa vs Canada | Jun 28 | ✅ |
+| R32 | Brazil vs Japan | Jun 29 | ✅ |
+| R32 | Germany vs Paraguay | Jun 29 | ✅ |
+| R32 | Netherlands vs Morocco | Jun 29 | ✅ |
+| R32 | Ivory Coast vs Norway | Jun 30 | ✅ |
+| R32 | France vs Sweden | Jun 30 | ✅ |
+| R32 | Mexico vs Ecuador | Jun 30 | ✅ |
+| R32 | England vs DR Congo | Jul 1 | ✅ |
+| R32 | Belgium vs Senegal | Jul 1 | ✅ |
+| R32 | USA vs Bosnia and Herzegovina | Jul 1 | ✅ |
+| R32 | Spain vs Austria | Jul 2 | ✅ |
+| R32 | Portugal vs Croatia | Jul 2 | ✅ |
+| R32 | Switzerland vs Algeria | Jul 2 | ✅ |
+| R32 | Australia vs Egypt | Jul 3 | ✅ |
+| R32 | Argentina vs Cape Verde | Jul 3 | ✅ |
+| R16 | Canada vs Morocco | Jul 4 | ✅ |
+| R16 | Paraguay vs France | Jul 4 | ✅ |
+| R16 | Brazil vs Norway | Jul 5 | ✅ |
+| R16 | Mexico vs England | Jul 5 | ✅ |
+| R16 | Portugal vs Spain | Jul 6 | ✅ |
+| R16 | USA vs Belgium | Jul 6 | - |
+| R16 | Argentina vs Egypt | Jul 7 | - |
+| R16 | Switzerland vs Colombia | Jul 7 | - |
 
-Round of 32 data processing IN PROGRESS
 
-Colombia vs Ghana | Jul 3 | ✅ |
+
+
 
 ---
 
