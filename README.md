@@ -102,9 +102,9 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | R16 | Brazil vs Norway | Jul 5 | ✅ |
 | R16 | Mexico vs England | Jul 5 | ✅ |
 | R16 | Portugal vs Spain | Jul 6 | ✅ |
-| R16 | USA vs Belgium | Jul 6 | - |
-| R16 | Argentina vs Egypt | Jul 7 | - |
-| R16 | Switzerland vs Colombia | Jul 7 | - |
+| R16 | USA vs Belgium | Jul 6 | ✅ |
+| R16 | Argentina vs Egypt | Jul 7 | ✅ |
+| R16 | Switzerland vs Colombia | Jul 7 | ✅ |
 
 
 
