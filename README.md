@@ -105,10 +105,15 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | R16 | USA vs Belgium | Jul 6 | ✅ |
 | R16 | Argentina vs Egypt | Jul 7 | ✅ |
 | R16 | Switzerland vs Colombia | Jul 7 | ✅ |
-| Quarters | France vs Morocco | Jul 9 | - |
-| Quarters | Spain vs Belgium | Jul 10 | - |
-| Quarters | Norway vs England | Jul 11 | - |
-| Quarters | Argentina vs Switzerland | Jul 11 | - |
+| Quarterfinal | France vs Morocco | Jul 9 | ✅ |
+| Quarterfinal | Spain vs Belgium | Jul 10 | ✅ |
+| Quarterfinal | Norway vs England | Jul 11 | ✅ |
+| Quarterfinal | Argentina vs Switzerland | Jul 11 | ✅ |
+| Semifinal | France vs Spain | Jul 14 | ✅ |
+| Semifinal | England vs Argentina | Jul 15 | ✅ |
+| 3rd Place | France vs England | Jul 18 | - |
+| Final | Argentina vs Spain | Jul 19 | - |
+
 
 
 
