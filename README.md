@@ -8,6 +8,8 @@ Match-level event data for every FIFA World Cup 2026 fixture
 
 ## Coverage
 
+ALL MATCHES NOW UPLOADED 
+
 | Group | Match | Date | Status |
 |-------|-------|------|--------|
 | A | Mexico vs South Africa | Jun 11 | ✅ |
@@ -111,8 +113,8 @@ Match-level event data for every FIFA World Cup 2026 fixture
 | Quarterfinal | Argentina vs Switzerland | Jul 11 | ✅ |
 | Semifinal | France vs Spain | Jul 14 | ✅ |
 | Semifinal | England vs Argentina | Jul 15 | ✅ |
-| 3rd Place | France vs England | Jul 18 | - |
-| Final | Argentina vs Spain | Jul 19 | - |
+| 3rd Place | France vs England | Jul 18 | ✅ |
+| Final | Argentina vs Spain | Jul 19 | ✅ |
 
 
 
